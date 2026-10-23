@@ -44,7 +44,7 @@ function App() {
 
         <div className="profile">
           <div className="profile-circle">
-            <span>👩‍💻</span>
+              <img src="/anjana.jpg" alt="Anjana" />
           </div>
         </div>
       </section>
@@ -191,3 +191,9 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
